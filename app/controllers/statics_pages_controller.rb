@@ -1,3 +1,3 @@
 class StaticsPagesController < ApplicationController
-    konntoro
+    konntoro dounaruka
 end
